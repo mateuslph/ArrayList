@@ -4,4 +4,4 @@
 simplesmente adicionando a classe não funciona. Logo, eu implemento na classe do objeto a CLasse Comparable do Tipo do objeto que será utilizado na execução. Depois na vez de pedir para ordenar, é simplesmente 
 lançado o método 'sort()' da Classe Collections.</p>
 
-<h3>Utilizados no proijeto o Java 17 LTS</h3>
+<h3>Utilizado no proijeto Java 17 LTS</h3>
