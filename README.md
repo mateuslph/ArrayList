@@ -5,4 +5,4 @@ simplesmente adicionando a classe não funciona. Logo, eu implemento na classe d
 lançado o método 'sort()' da Classe Collections.</p>
 <p>Depois eu utilizo a Interface Set, que traz agilidade no código onde é implantado, porém não garante a ordem dos elementos</p>
 
-<h3>Utilizado no proijeto Java 17 LTS</h3>
+<h3>Utilizado no projeto Java 17 LTS</h3>
