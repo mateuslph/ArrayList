@@ -1,4 +1,4 @@
-<h1>Instruído pela Vídeo Aula da plataforma Alura</h1>
+<h1>Utilização de Collections em Java</h1>
 
 <h3>Objetivo geral</h3>
 
@@ -14,4 +14,9 @@
 simplesmente adicionando a classe não funciona. Logo, eu implemento na classe chamada de Comparable do Tipo do objeto que será utilizado na execução. Depois na vez de pedir para ordenar, é simplesmente 
 lançado o método 'sort()' da Classe Collections. E finalmente utilizo a Interface Set, que traz agilidade no código onde é implantado, porém não garante a ordem dos elementos</p>
 
-<h4>Utilizado no projeto Java 17 LTS</h4>
+<h3>Tecnologias utilizadas:</h3>
+
+* Java 17 LTS;
+* Eclipse IDE;
+
+<p>Instruido pela plataforma de corsos online <a href="https://www.alura.com.br/">alura.com.br</a>.</p>
