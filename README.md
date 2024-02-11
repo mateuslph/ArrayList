@@ -16,7 +16,7 @@ lançado o método 'sort()' da Classe Collections. E finalmente utilizo a Interf
 
 <h3>Tecnologias utilizadas:</h3>
 
-* Java 17 LTS;
+* JavaSE 17 LTS;
 * Eclipse IDE;
 
 <p>Instruido pela plataforma de corsos online <a href="https://www.alura.com.br/">alura.com.br</a>.</p>
